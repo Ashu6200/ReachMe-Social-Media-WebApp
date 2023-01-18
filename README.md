@@ -17,3 +17,19 @@ A MERN stack based project on social media application. It is completely working
 - edit profile page user data.
 - delete posts.
 - profile page shows user details and posts with following and followers menu.
+
+
+## Some Screenshots Reachme
+
+Homepage
+[![Homepage.png](https://i.postimg.cc/pTVDyzG8/Homepage.png)](https://postimg.cc/XZhZzG07)
+My Profile page
+[![profile.png](https://i.postimg.cc/MZFyKcyM/profile.png)](https://postimg.cc/fkY38RqD)
+Chat
+[![Chat.png](https://i.postimg.cc/JzbJqPSZ/Chat.png)](https://postimg.cc/HrkVW4Yk)
+Login
+[![Login.png](https://i.postimg.cc/sg9QS1ZJ/Login.png)](https://postimg.cc/PCJ5nXyL)
+Register page
+[![Register.png](https://i.postimg.cc/q71NbYwh/Register.png)](https://postimg.cc/mcFZhm0B)
+Followed User profile
+[![Capture.png](https://i.postimg.cc/dVK4RW5c/Capture.png)](https://postimg.cc/svwYsJFT)
