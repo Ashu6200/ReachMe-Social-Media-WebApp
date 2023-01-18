@@ -1,5 +1,6 @@
-# ReachMe-Social-Media-WebApp
-It is basically Web applications  that were made for the purpose of allowing people to quickly share content with efficiency and in real-time. 
+# ReachMe-Social-Media-WebApp 
+
+A MERN stack based project on social media application. It is completely working project. Its' completely responsive application. MongoDB Express React Redux NodeJs Firebase are user in this project.
 
 
 ## Features
@@ -7,6 +8,7 @@ It is basically Web applications  that were made for the purpose of allowing peo
 - Explore page to view other posts by random users.
 - register and login users.
 - user suggestions menu.
+- post images can be uploaded file system and stored in firebase tsore.
 - comment on posts.
 - like ,comment, share and edit posts.
 - posts include text(caption) and image(s).
