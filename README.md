@@ -35,4 +35,8 @@ Followed User profile
 [![Capture.png](https://i.postimg.cc/dVK4RW5c/Capture.png)](https://postimg.cc/svwYsJFT)
 
 ## Video
-https://www.veed.io/view/f09fc089-9468-4bc7-9d6b-0fc1edb04df2?sharingWidget=true&panel=share
+
+https://user-images.githubusercontent.com/109691178/213429003-6b563767-2591-44a7-89d2-b5e43970d8b4.mp4
+
+
+
