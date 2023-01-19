@@ -33,3 +33,6 @@ Register page
 [![Register.png](https://i.postimg.cc/q71NbYwh/Register.png)](https://postimg.cc/mcFZhm0B)
 Followed User profile
 [![Capture.png](https://i.postimg.cc/dVK4RW5c/Capture.png)](https://postimg.cc/svwYsJFT)
+
+## Video
+https://www.veed.io/view/f09fc089-9468-4bc7-9d6b-0fc1edb04df2?sharingWidget=true&panel=share
