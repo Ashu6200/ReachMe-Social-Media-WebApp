@@ -60,11 +60,6 @@ const Register = () => {
     );
     navigate("/login");
   };
-  useEffect(() => {
-    if (user !== null) {
-      navigate("/");
-    }
-  }, [navigate, user]);
 
   return (
     <Wrapper>
