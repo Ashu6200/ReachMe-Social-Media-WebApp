@@ -25,13 +25,13 @@ Homepage
 [![Homepage.png](https://i.postimg.cc/pTVDyzG8/Homepage.png)](https://postimg.cc/XZhZzG07)
 My Profile page
 [![profile.png](https://i.postimg.cc/MZFyKcyM/profile.png)](https://postimg.cc/fkY38RqD)
-Chat
+Chat Page
 [![Chat.png](https://i.postimg.cc/JzbJqPSZ/Chat.png)](https://postimg.cc/HrkVW4Yk)
-Login
+Login Page
 [![Login.png](https://i.postimg.cc/sg9QS1ZJ/Login.png)](https://postimg.cc/PCJ5nXyL)
 Register page
 [![Register.png](https://i.postimg.cc/q71NbYwh/Register.png)](https://postimg.cc/mcFZhm0B)
-Followed User profile
+Followed User profile Page
 [![Capture.png](https://i.postimg.cc/dVK4RW5c/Capture.png)](https://postimg.cc/svwYsJFT)
 
 ## Video
